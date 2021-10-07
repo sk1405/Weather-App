@@ -1,0 +1,79 @@
+body {
+  width: 700px;
+  height: 737px;
+  background: linear-gradient(180deg, #D8C276 40.8%, rgba(216, 194, 118, 0) 124.95%);
+}
+
+.button {
+  background-color: pink;
+}
+
+.row {
+  position: absolute;
+  width: 700px;
+  height: 637px;
+  left: 400px;
+  right: 370px;
+  top: 50px;
+  bottom: 50px;
+  background: #F3F5DC;
+  border-radius: 140px;
+}
+.E-button{
+position: absolute;
+width: 300px;
+height: 50px;
+left: 200px;
+top: 240px;
+border-radius: 10px;
+border: 1px solid #DECE97;
+color: #AD813E;
+
+}
+
+.button{
+position: absolute;
+width: 100px;
+height: 50px;
+left: 300px;
+top: 350px;
+background: #DECE97;
+border-radius: 20px;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border: 1px solid white;
+
+font-family: Ruda;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 45px;
+color: #AD813E;
+}
+
+#cityInput{
+font-family: Ruda;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+color: #AC9647;
+}
+
+h1{
+	color: #B97A95;
+	margin-top: 200px;
+	margin-left: 0px;
+    text-align: center;
+    margin-top: 250px;
+}
+h2{
+  text-align: center;
+    margin-top: 150px;
+    font-size: 2.8rem;
+    color: #AC9647;
+}
+
+.image-icon{
+  width: 40%;
+}

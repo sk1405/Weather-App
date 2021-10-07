@@ -1,0 +1,17 @@
+<%- include("header") -%>
+
+<body>
+
+
+   <div class="row">
+
+    <form action="/" method="post">
+      <h1>The temperature in <%= city %> is <%= temperature %> °C with a Weather of <%= desc %> </h1>
+      <img class="image-icon" src="<%= imgURL %>">
+
+    </form>
+
+  </div>
+
+
+<%- include("footer") -%>
